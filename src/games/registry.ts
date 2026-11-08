@@ -18,6 +18,7 @@ import { tenSeconds } from "./ten-seconds";
 import { mathDuel } from "./math-duel";
 import { colorMatch } from "./color-match";
 import { basketball } from "./basketball";
+import { minesweeper } from "./minesweeper";
 
 /**
  * All playable games. To add a new game, create a folder with a component
@@ -43,6 +44,7 @@ export const GAMES: GameDefinition[] = [
   mathDuel,
   colorMatch,
   basketball,
+  minesweeper,
 ];
 
 export const getGame = (id: string) => GAMES.find((g) => g.id === id);
