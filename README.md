@@ -17,8 +17,8 @@ Supaya bisa dicoba di HP: jalankan `npm run dev -- -H 0.0.0.0`, lalu buka `http:
 
 ## Fitur
 
-- **20 game**
-  - Strategi: Catur, Dam, Congklak, Lima Sejajar, Tic Tac Toe, Connect Four
+- **21 game**
+  - Strategi: Catur, Dam, Congklak, Lima Sejajar, Tic Tac Toe, Connect Four, Duel Lempar
   - Refleks: Tap Battle, Reaction Duel, Tarik Tambang, Pong, Stop di 10 Detik, Duel Basket
   - Otak/Puzzle: Memory Match, Dots and Boxes, Adu Hitung Cepat, Tebak Warna, Minesweeper Duel
   - Keberuntungan: Batu Gunting Kertas, Adu Penalti
